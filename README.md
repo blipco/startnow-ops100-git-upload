@@ -4,7 +4,7 @@
 
 An assignment where I uploaded all of my Origin Code Academy 
 
-projects and assignments to [Git hub](https://www.github.com)
+projects and assignments to [Git Hub Profile](https://www.github.com/blipco)
 
 ## **EXTRAS:**
 
